@@ -1,0 +1,5 @@
+# Build artifacts
+*.hi
+*.o
+dist/
+.dist-scion/
