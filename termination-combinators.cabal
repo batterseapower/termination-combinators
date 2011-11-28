@@ -9,7 +9,7 @@ License-File:       LICENSE
 Author:             Max Bolingbroke
 Synopsis:           Termination combinators for forcing non-terminating algorithms to terminate
 Category:           Language
-Description:        For more information see the paper at http://www.cl.cam.ac.uk/~mb566/papers/termination-combinators-hs11.pdf
+Description:        For more information see the paper at <http://www.cl.cam.ac.uk/~mb566/papers/termination-combinators-hs11.pdf>
 
 Library
     Exposed-Modules: Control.Termination
